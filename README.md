@@ -6,12 +6,16 @@ Inside the notebook is a CSV containing more than 34,000 organizations that have
 
 # Step 1: Preprocess the Data
 Using knowledge of Pandas and scikit-learn’s StandardScaler(), I preprocessed this dataset. This step prepared me for Step 2, where I compiled, trained, and evaluated the neural network model.
+<img width="1198" alt="Screen Shot 2023-06-05 at 1 49 09 PM" src="https://github.com/Phil-Mart/deep-learning/assets/120279988/23bc5933-41d2-48d7-97dc-6a24b7b851dd">
+<img width="1198" alt="Screen Shot 2023-06-05 at 1 50 18 PM" src="https://github.com/Phil-Mart/deep-learning/assets/120279988/da6f7b74-092a-40c1-96dd-b58c0d4c200f">
 
 # Step 2: Compile, Train, and Evaluate the Model
 Using my knowledge of TensorFlow, I designed a neural network, or deep learning model, to create a binary classification model that can predict if an angel investment funded organization will be successful based on the features in the dataset. I considered how many inputs there were before determining the number of neurons and layers in this model. Once I completed that step, I compiled, trained, and evaluated my binary classification model to calculate the model’s loss and accuracy.
+<img width="1198" alt="Screen Shot 2023-06-05 at 1 50 49 PM" src="https://github.com/Phil-Mart/deep-learning/assets/120279988/94b55ab7-c459-45b1-885c-075979369c6d">
 
 # Step 3: Optimize the Model
 Using my knowledge of TensorFlow, I optimize your model to achieve a target predictive accuracy higher than 75%. I did so by readding the 'Names' column, becuase this lead to a more rich data set with hidden nodes to make the predictive model better optimized. 
+<img width="1198" alt="Screen Shot 2023-06-05 at 1 51 06 PM" src="https://github.com/Phil-Mart/deep-learning/assets/120279988/2da666b4-d294-445e-b3fb-f1b936d3f183">
 
 # Step 4: Written Report on Neural Network Model
 
