@@ -36,3 +36,5 @@ Using my knowledge of TensorFlow, I optimize your model to achieve a target pred
 
 ## Summary: 
 To find the best results, I would do exploratory permutation analysis to test every combination of columns added/excluded along with the most optimal neural network in order to find the highest level of accuracy possible. Also, if results became less fruitful after such analysis, I could also use other machine learning tools to see if a different supervised learning algorithm could yield better results. This could include Linear Regression, PCA compression, tree-decision making, or other methods. Then, I would need to visualize the entire datset to visualy tease out potential indicator to then be tested by the model. Lastly, I would look at the bin sizes to make sure that the model is not overfit or under-fit.
+
+## LinkedIn: https://www.linkedin.com/analytics/profile-views/
