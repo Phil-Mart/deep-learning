@@ -31,6 +31,8 @@ Using my knowledge of TensorFlow, I optimize your model to achieve a target pred
  ## Compiling, Training, and Evaluating the Model:
  * I tested 3 hidden layers of 8 of Neurons using various activation functions, including Relu, Tanh, and Linear algorithms. I do so because adding layers or Neurons made no difference without changing the data. 
  * Each model's test peaked around 20 epochs, with a loss of ~50% and an accuracy of ~71%. 
+ * <img width="635" alt="Screen Shot 2023-06-05 at 3 50 22 PM" src="https://github.com/Phil-Mart/deep-learning/assets/120279988/e6289b84-1dd7-4398-87a0-610b48559f99">
+
  * Without adding the 'NAMES' column to the model, I was not able to initially raise the model's accuracy above 75%. 
  * To increase accuracy, I first changed variable in the neural network itself to increase its computing agility. I added two hidden layers, gave each layer 8 nodes, and used a combination of different active functions; the results, however, remained the same. So, this was an indication that there may still have been noise in the dataset, or that the NAMES column needed to be added in order to bin loans together by company. 
 
